@@ -35,6 +35,6 @@ Specialized Areas: Considering natural language processing (NLP) or computer vis
 Feel free to explore my code and follow along with my progress. Contributions, suggestions, and feedback are highly welcome!
 
 Contact
-For any questions or discussions, feel free to reach out to me at [your.email@example.com].
+For any questions or discussions, feel free to reach out to me at jatingidh108@gmail.com .
 
 This README provides a snapshot of your learning journey and serves as a helpful guide for others who might be interested in following a similar path. Adjust the content based on your actual experiences and preferences.
